@@ -9,8 +9,11 @@ These notes are intended to complement the official Harvard lectures and serve a
 Zhanxi Yan @zhanxi.24@intl.zju.edu.cn
 
 ## Table of Contents
+- Lecture 1_C: `Terminal Commands` `Header Files` `Basic C`
+- Lecture 2_Arrays: `Compiling` `Arrays` `Command-line Arguments` `Exit Status` `Cryptography` 
 - Lecture 3_Algorithms: `Search` `Running time` `Struct` `Sorting` `Recursion` 
 - Lecture 4_Memory: `Pixel Art` `Memory` `Pointer` `Strings` `Malloc` `Valgrind` `File I/O` `Scanf`
+- Lecture 5_Data Structure: 'Queues' 'Stacks' `Resizing Arrays` `Linked lists` tbc
 
 ## Content Details
 1. **Code Annotations**: Every code example is accompanied by detailed comments that highlight core logic, key syntax elements, and common pitfalls, making them ideal for beginners.
@@ -33,8 +36,11 @@ This note set is licensed under the [MIT License](LICENSE), allowing free use, m
 晏展希 @zhanxi.24@intl.zju.edu.cn
 
 ## 目录
-- 第三讲_算法：`搜索` `运行时间` `结构体` `排序` `递归`
-- 第四讲_内存：`像素艺术` `内存` `指针` `字符串` `动态内存分配（malloc）` `内存检测工具（Valgrind）` `文件输入输出` `格式化输入（Scanf）`
+- 第1讲_C语言：“终端命令” “头文件” “基础C语言知识”
+- 第2讲_数组：“编译” “数组” “命令行参数” “退出状态” “密码学”
+- 第3讲_算法：“搜索” “运行时间” “结构体” “排序” “递归”
+- 第4讲_内存：“像素艺术” “内存” “指针” “字符串” “动态内存分配（malloc）” “内存检测工具（Valgrind）” “文件输入输出” “格式化输入函数（Scanf）”
+- 第5讲_数据结构：“队列” “栈” “可扩容数组” “链表” 待续 
 
 ## 内容详情
 1. **代码注释**：每一个代码示例都配有详细注释，重点标注核心逻辑、关键语法以及常见错误，非常适合编程初学者。
